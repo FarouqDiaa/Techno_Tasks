@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+Task2.obj : error LNK2005: main already defined in Task1.obj
+C:\Users\hp\Desktop\Techno Tasks\Tasks\x64\Debug\Tasks.exe : fatal error LNK1169: one or more multiply defined symbols found
